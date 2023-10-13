@@ -1,6 +1,6 @@
 # ResepKita
 
-Platform digital yang dirancang untuk menciptakan pengalaman membaca yang mendalam, menginspirasi, dan memikat.
+Platform digital yang dirancang untuk melihat berbagai resep
 
 Untuk demo live anda bisa kunjungi: (https://resep-kitav1.netlify.app/)
 
