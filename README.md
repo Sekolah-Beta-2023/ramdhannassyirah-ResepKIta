@@ -10,8 +10,7 @@ Untuk demo live anda bisa kunjungi: (https://resep-kitav1.netlify.app/)
 
 ## Fitur Tersedia
 1. Register, Login, Logout
-2. Edit Profile
-3. Upload, melihat, mengedit, dan menghapus Resep
+2. Upload, melihat, mengedit, dan menghapus Resep
 
 ## Fitur rencana (belum tersedia)
 1. upload gambar
