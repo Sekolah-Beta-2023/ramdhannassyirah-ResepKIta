@@ -1,5 +1,35 @@
 # ResepKita
 
+Platform digital yang dirancang untuk menciptakan pengalaman membaca yang mendalam, menginspirasi, dan memikat.
+
+Untuk demo live anda bisa kunjungi: (https://resep-kitav1.netlify.app/)
+
+Untuk melihat jika ada update dan full source: https://github.com/rvnkrwn/AlviElysium-App
+
+noted: live demo akan aktif selama vercel masi aktif untuk backend akan aktif hingga november 2023 menggunakan cpanel
+
+## Tech Stack
+1. Frontend : Nuxt.js 2
+2. Database : supabase
+
+## Fitur Tersedia
+1. Register, Login, Logout
+2. Edit Profile
+3. Upload, melihat, mengedit, dan menghapus Resep
+
+## Fitur rencana (belum tersedia)
+1. upload gambar
+
+
+
+
+## Contacts
+1. Linkedin: [https://www.linkedin.com/in/rvnkrwn](https://www.linkedin.com/in/ramdhannassyirah/)
+2. Github: [https://github.com/rvnkrwn](https://github.com/ramdhannassyirah)
+
+
+#### Thanks to alkademi, 1000startupdigital, mentor, asisten mentor, dan lainnya
+
 ## Build Setup
 
 ```bash
